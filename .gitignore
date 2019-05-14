@@ -1,0 +1,6 @@
+data/*
+!data/setup/*
+!data/postgres/.gitkeep
+!data/liferay/.gitkeep
+!data/ldap/config/.gitkeep
+!data/ldap/database/.gitkeep

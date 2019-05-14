@@ -10,5 +10,5 @@ An OpenLDAP server is also added, with an admin interface (phpLDAPAdmin). This s
 
 The databases (postgres and OpenLDAP) are available to an internal network, to prevent external access.
 
-![architecture docker](./Lifray-docker-arch.png)
+![architecture docker](./Liferay-docker-arch.png)
 
